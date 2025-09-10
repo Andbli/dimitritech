@@ -636,7 +636,7 @@ function setupScene()
 	scene.numPressureIters = 50;
 	scene.numParticleIters = 2;
 
-	var res = 100;
+	var res = 70;
 	
 	var tankHeight = 1.0 * simHeight;
 	var tankWidth = 1.0 * simWidth;
